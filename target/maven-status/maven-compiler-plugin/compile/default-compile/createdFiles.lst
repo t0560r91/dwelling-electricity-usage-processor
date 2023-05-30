@@ -1,0 +1,9 @@
+life/sk/dwelling/datapipeline/subcomponent/reader/DataReader.class
+life/sk/dwelling/datapipeline/component/entity/ElectricityUsage.class
+life/sk/dwelling/datapipeline/component/entity/RawElectricityUsage.class
+life/sk/dwelling/datapipeline/DataPipeline.class
+life/sk/dwelling/datapipeline/subcomponent/reader/CsvDataReader.class
+life/sk/dwelling/datapipeline/subcomponent/writer/CsvDataWriter.class
+life/sk/dwelling/datapipeline/component/entity/DataEntity.class
+life/sk/dwelling/datapipeline/subcomponent/writer/DataWriter.class
+life/sk/dwelling/datapipeline/ElectricityUsageProcessorPipeline.class
